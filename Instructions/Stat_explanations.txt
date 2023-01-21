@@ -1,0 +1,46 @@
+Player
+The Players name, indicated by their first name and last initial. If two players have the same first name and last initial, then the second player with the same first and last initial will have their entire last name posted.
+Minutes
+Keeps track of the total time a player is on the court.
+Points
+The total amount of Points scored by that player during the game.
+Made Field Goal
+The total baskets made by a player. This includes 2-point and 3-point baskets.
+Missed Field Goal
+The total baskets missed by a player. This includes missed 2-point and 3-point baskets.
+Field Goal Percentage
+The percentage of baskets made by that player. This includes 2-point and 3-point baskets.
+Made 3 Pointer
+The number of 3 point shots made by the player.
+Missed 3 Pointer
+The number of 3 point shots missed by the player.
+Three Point Percentage
+The percentage of 3 point shots made by the player.
+Made Free Throw
+The number of Free Throws made by the player. Each Free Throw is worth 1 point and is awared to the player if they were fouled in the act of shooting or if their team is over the foul limit.
+Missed Free Throw
+The number of Free Throws missed by the player. 
+Free Throw Percentage
+The percentage of Free Throws made by the player.
+Offensive Rebound
+A rebound secured by a player while their team is on offense.
+Defensive Rebound
+A rebound secured by a player while their team is on defense. Securing the Defensive Rebound signals a change in possession of the ball.
+Rebound
+The total Offensive and Defensive Rebounds secured by that player.
+Assist
+A pass by a player that directly leads to a made basket by another player.
+Turnover
+A loss in possession of the ball of a player, either forced by a player on the opposing team through a steal or unforced through bad passes or stepping out of bounds with the ball.
+Steal
+When the defensive player takes the ball away from the offensive player.
+Block
+A shot that is blocked.
+Personal Foul
+Any generic foul including: Personal, Over the Back, or Reach-In Foul.
+Technical Foul
+A violation of the rules of the game or unsportsmanlike conduct towards other players and game officials. Two technicals result in an ejection.
+Flagrant Level I Foul
+Contact on a foul that is uneccessary. Two Flagrant I's result in an ejection. 
+Flagrant Level II Foul
+Contact on a foul that is uneccessary and excessive. Results in an immediate ejection.
