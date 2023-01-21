@@ -1,0 +1,52 @@
+Welcome! This software is designed to help you keep track of statistics for all players on your team during
+a basketball game. Start by entering the
+first and last name of your player into the textbox right under the headers. Press 'Submit' to add this
+player to your team. Press 'Undo' to remove the latest player name you entered. Press 'Done' to finish 
+creating your team. As you enter your players, the program will show you a running list of all your players,
+shown in the first name and last initial format. If two players have the same first name and last initial,
+the latest player's last name will be shown rather than their last initial.
+In the event that you accidentally close the program while in the middle of a game, or you wish to go back
+to a previous game, you can press the 'Old Game' button. Once pressed, if there are any games available
+to load, they will be displayed in a grid for you to select. Once selected, the game will restart and all
+player statistics will be added. the 'Instructions' button leads you here and the settings button is a way
+of customizing your experience with this program. You can change the color of the background, text, borders
+and buttons, you can select whatever font type you like and you can customize which game type you are playing
+by entering how many fouls are allowed, how many players are playing, etc. 
+Finally, the 'Close' button is simply a way of closing the program.
+*-*
+Once you have pressed 'Done', you will be redirected to one of two windows depending on how many players
+you entered. Because a Basketball game requires a certain number of players to be on the floor at all times, if you enter exactly
+STARTER_KEY players, then there is no need for a bench or substitutions. Therefore, you will be redirected directly
+to the 'Roster Management' window to begin your game. If you entered more than STARTER_KEY players, then you will be 
+redirected to a different window where you can select STARTER_KEY starters for your game. This window is shown below:
+*-*
+This window will ask you to select STARTER_KEY starters from the players you entered. You can press 'Undo' to remove
+the last starter on your list and press 'Start' to start your game. If you entered exactly 
+STARTER_KEY players, then you will be directed
+to the window directly below. At the top of the screen, you will see a row of 
+four components. The 'Score' label shows you the total number of points your team has scored.
+The 'Box Score' button opens a new window with a table showing every players statistics, with the final row
+showing the totals for the team. The 'Undo' button allows you to undo any mistakes you may have
+made while entering statistics. You can choose which period the error occured and find the 
+statistic and click it to remove it. Once you are done with your game, you can press the 'Done'
+button. Each player is represented as a button which you can click to add a statistic for that player.
+In the second row of components there is a label with the current period and the time remaining in that period.
+The period length and the number of periods can be changed in the settings window. Pressing the start/stop
+button will start and stop the timer, as will the 'Timeout' button. The number of timeouts can also be 
+changed in the settings window. The total team fouls are also displayed. 
+Click the buttons below to simulate what live game tracking is like!
+*-*
+If you are confused as to what the abbreviations in the Box Score Table mean, click the 'Abbreviations' button
+below and click on the stat that you want to learn more about for an explanation.
+*-*
+This is the other version of the 'Roster Management' window. This window appears if you entered
+more than STARTER_KEY players. As you can see, the header is the same, with the same components as with the
+window with only STARTER_KEY players. You will notice that there are two panels. 
+The panel on the right shows you who is currently on the court, and you can press those buttons to add statistics
+for those players. The other panel shows the players on the bench, with those who have fouled out in red.
+Click the buttons below to simulate live game tracking!
+*-* 
+This software allows you to track every player on your team while you play basketball.
+Whether you are just playing with some friends and want to see how everyone does, or if you want to track
+your stats during a tournament, this program has you covered. Have fun with your team and go get the win!
+*-*
