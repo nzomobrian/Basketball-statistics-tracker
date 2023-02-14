@@ -7,4 +7,3 @@ Tournament five
 tournament six
 Tournament seven
 Tournament eight 
-Tournament nine
